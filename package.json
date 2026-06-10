@@ -2,6 +2,7 @@
   "name": "pantrypal",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "description": "PantryPal — AI-powered pantry-to-recipe app",
   "engines": {
     "node": ">=18"
